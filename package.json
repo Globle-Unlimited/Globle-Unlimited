@@ -2,7 +2,7 @@
   "name": "globle",
   "version": "1.6.0",
   "private": true,
-  "homepage": "https://Globle-Unlimited.github.io",
+  "homepage": "geopractest.live",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
